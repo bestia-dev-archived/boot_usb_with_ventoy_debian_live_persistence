@@ -1,5 +1,6 @@
 # boot_usb_with_ventoy_debian_live_persistence
 
+**Bootable usb key with Ventoy Debian with live persistence.**
 ***version: 1.0.0 date: 2022-09-09 author: [bestia.dev](https://bestia.dev) repository: [Github](https://github.com/bestia-dev/boot_usb_with_ventoy_debian_live_persistence)***  
 
 Hashtags: #rustlang #tutorial #buildtool #developmenttool  
