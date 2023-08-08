@@ -3,6 +3,10 @@
 **Bootable usb key with Ventoy Debian with live persistence.**  
 ***version: 1.0.0 date: 2022-09-09 author: [bestia.dev](https://bestia.dev) repository: [Github](https://github.com/bestia-dev/boot_usb_with_ventoy_debian_live_persistence)***  
 
+![status](https://img.shields.io/badge/obsolete-red) 
+![status](https://img.shields.io/badge/archived-red) 
+![status](https://img.shields.io/badge/tutorial-yellow) 
+
 Hashtags: #rustlang #tutorial #buildtool #developmenttool  
 My projects on Github are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
 
